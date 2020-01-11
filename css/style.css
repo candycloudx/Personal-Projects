@@ -1,0 +1,198 @@
+/* My Different Headers   */
+h1{
+    font-size:99px;
+}
+h2{
+    font-size:86px;
+}
+h3{
+    font-size:21px;
+}
+h4{
+    font-size:13px;
+}
+h5{
+    font-size:10px;
+}
+h6{
+    font-size:28px;
+}
+p{
+    font-size:20px;
+}
+.button-1{
+    font-size:30px;
+}
+.button-2{
+    font-size:25px;
+}
+.play-button{
+    width:200px;
+    height:200px;
+}
+.hero-btn{
+    font-size:50px;
+    background-color:#F9B700;
+    color:#FFFFFF;
+    border-radius:87px;
+}
+.reg-link{
+    font-size:150px;
+    color:#2E3EA4;
+}
+.reg-login{
+    font-size:65px;
+    color:#2E3EA4;
+}
+.hero-btn:hover{
+    text-decoration:none;
+    color:#F9B700;
+    background-color:white;
+}
+.blog-name{
+    font-size:28px;
+    color:#2E3EA4;
+}
+.blog-state{
+    font-size:17px;
+}
+.blog-date{
+    font-size:14px;
+}
+.blog-content{
+    font-size:33px;
+}
+#banner{
+    background-color:#2E3EA4;
+    color:#ffffff;
+}
+#hero{
+    background-image:linear-gradient(#2E3EA443,#2E3EA443),url("../Images/2479362.png");
+    background-size:cover;
+}
+.button-1{
+    background-color:#F9B700;
+    color:#FFFFFF;
+}
+.button-2{
+    background-color:#2E3EA4;
+    color:#FFFFFF;
+}
+.testimonial-btn1{
+    background-color:#F9B700;
+    color:#ffffff;
+}
+.testimonial-btn1:hover{
+    background-color:#F9B700;
+    color:#FFFFFF;
+    text-decoration:none;
+    border-radius:50%;
+}
+.testimonial-btn2{
+    background-color:#2E3EA4;
+    color:#Ffffff;
+}
+.testimonial-btn2:hover{
+    background-color:#2E3EA4;
+    color:#Ffffff;
+    text-decoration:none;
+    border-radius:50%; 
+}
+.line1,.line2{
+    border: 1px solid #707070;
+}
+.blog-images{
+    border-radius:50%;
+}
+.image-resize{
+    width:180px;
+    height:200px;
+    border-radius:50%;
+}
+.video-link{
+    background-color:#2E3EA4;
+    color:#ffffff;
+}
+.blog-cards{
+    box-shadow: 2px 1px 28px #0000001A;
+    margin-top:64.24px;
+}
+.blog-img{
+    border-radius:50%;
+    width:130px;
+    height:130px;
+    left:33%;
+    position:absolute;
+    border:6px solid #0000001A;
+    opacity:1;
+ 
+}
+.clog-content{
+    padding-top:70px;
+}
+.carey-video{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("../Images/2479412.png");
+    background-size:cover;
+}
+.carey-video1{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("../Images/Image\ 12.png");
+    background-size:cover;
+}
+.carey-video2{
+    background-image:url(../Images/caique-silva-341071-unsplash.png);
+    background-size:cover;
+}
+.carey-video3{
+    background-image:url(../Images/eye-for-ebony-340137-unsplash.png);
+    background-size:cover;
+}
+.carey-video4{
+    background-image:url(../Images/Image\ 16.png);
+    background-size:cover;
+}
+.play-btn{
+    width:40px;
+    height:40px;
+    margin-top:143px;
+    margin-bottom:25.59px;
+}
+.input-box{
+    background-color:#B9B9B980;
+    border-radius:114px;
+    width:100%;
+    height:100px;
+    border:1px solid grey;
+    
+}
+.form-label{
+    font-size:63px;
+    color:#7F7F7F;
+}
+.input-select{
+    font-size:63px;
+    color:#A0A0A0;
+}
+.registration-link{
+    background-color:#2E3EA4;
+    color:#ffffff;
+    font-size:100px;
+    border-radius:133px;
+}
+.registration-link:hover{
+    text-decoration:none;
+    color:#2E3EA4;
+    background-color:white;
+    border:3px solid#2E3EA4;
+}
+.service-terms{
+    color:#2E3EA4;
+    font-size:56px;
+}
+.agree{
+    color:#7F7F7F;
+    font-size:57px;
+}
+#terms-check{
+    width:75px;
+    height:68px;
+}
